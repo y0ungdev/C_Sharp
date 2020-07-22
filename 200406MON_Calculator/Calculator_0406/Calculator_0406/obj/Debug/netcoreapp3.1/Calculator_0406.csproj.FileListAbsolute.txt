@@ -1,0 +1,13 @@
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\bin\Debug\netcoreapp3.1\Calculator_0406.exe
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\bin\Debug\netcoreapp3.1\Calculator_0406.deps.json
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\bin\Debug\netcoreapp3.1\Calculator_0406.runtimeconfig.json
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\bin\Debug\netcoreapp3.1\Calculator_0406.runtimeconfig.dev.json
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\bin\Debug\netcoreapp3.1\Calculator_0406.dll
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\bin\Debug\netcoreapp3.1\Calculator_0406.pdb
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\obj\Debug\netcoreapp3.1\Calculator_0406.csprojAssemblyReference.cache
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\obj\Debug\netcoreapp3.1\Calculator_0406.csproj.CoreCompileInputs.cache
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\obj\Debug\netcoreapp3.1\Calculator_0406.AssemblyInfoInputs.cache
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\obj\Debug\netcoreapp3.1\Calculator_0406.AssemblyInfo.cs
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\obj\Debug\netcoreapp3.1\Calculator_0406.dll
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\obj\Debug\netcoreapp3.1\Calculator_0406.pdb
+D:\DevBong\04 Csharp\200406MON\Calculator_0406\Calculator_0406\obj\Debug\netcoreapp3.1\Calculator_0406.genruntimeconfig.cache
